@@ -4,8 +4,8 @@
 
 /**
  * main
- * Description assign random number and print last number stored in the variable
- * Return: 0 
+ * Description assign random no and print last number stored in the variable
+ * Return: 0
  */
 
 int main(void)
