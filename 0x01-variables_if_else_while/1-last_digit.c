@@ -3,8 +3,8 @@
 #include <time.h>
 
 /**
- * main
- * Description assign random no and print last number stored in the variable
+ * main: entry point
+ * Description: assign random no and print last number stored in the variable
  * Return: 0
  */
 
