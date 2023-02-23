@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - print a line to the starndad error
- * return: 1 (Success)
+ * main -c program that  print a line to the standard error
+ * Return: 1 (Success)
  */
 int main(void)
 {
