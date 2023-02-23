@@ -3,7 +3,7 @@
 #include <time.h>
 
 /**
- * main: entry point
+ * main-  entry point
  * Description: assign random no and print last number stored in the variable
  * Return: 0
  */
